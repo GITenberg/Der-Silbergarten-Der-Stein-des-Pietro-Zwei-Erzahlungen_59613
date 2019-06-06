@@ -1,11 +1,16 @@
 _repo: Der-Silbergarten-Der-Stein-des-Pietro-Zwei-Erzahlungen_59613
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 59613-h/images/cover.jpg
 creator:
   author:
     agent_name: Külpe, Frances
     gutenberg_agent_id: '50536'
     url: http://www.gutenberg.org/2009/agents/50536
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59613#Der-Silbergarten-Der-Stein-des-Pietro-Zwei-Erzahlungen
 gutenberg_issued: '2019-05-26'
 gutenberg_type: Text
 identifiers:
